@@ -1,0 +1,1 @@
+static websites for cloudflare
